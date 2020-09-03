@@ -4,7 +4,7 @@
 
 ---
 
-<img align="right" src="img/Naruto.jpg" width="150">
+<img align="right" src="https://github.com/dboracanedo/dboracanedo/blob/master/img/Naruto.jpg" width="150">
 
  Muitos me consideram uma pessoa **Nerd**, creio que isso seja pelo fato de ser fã de __*Naruto*__. Uma inspiração que carrego comigo. 
  
