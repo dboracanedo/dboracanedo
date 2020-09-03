@@ -43,6 +43,6 @@ TMJ
 
 **Me acompanhem nas redes sociais também**
 <p align="left">
-<a href="https://www.instagram.com/dboracanedo/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="dboracanedo" height="40" width="40" /></a> &nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/d%C3%A9bora-canedo-68031827/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Débora Canedo" height="40" width="40" /></a> &nbsp;&nbsp;
+<a href="https://www.instagram.com/dboracanedo/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="dboracanedo" height="40" width="40" /></a> &nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/d%C3%A9bora-canedo-68031827/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Débora Canedo" height="40" width="40" /></a> &nbsp;&nbsp;
 </p>
