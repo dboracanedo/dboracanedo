@@ -23,7 +23,7 @@
  - [ ] Aprender sobre UX/UI
  - [ ] Aprender mais sobre outras áreas e linguagens
 
-<img align="right" src="https://github.com/dboracanedo/dboracanedo/blob/master/img/sai.jpgimg/sai.jpg" width="200">
+<img align="right" src="https://github.com/dboracanedo/dboracanedo/blob/master/img/sai.jpg" width="200">
 
  <p> Essas são apenas algumas das metas que tenho, pretendo conquista-lás as poucos para que o aprendizado seja concretizado com êxito.</p>
 
