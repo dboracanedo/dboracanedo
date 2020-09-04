@@ -1,6 +1,6 @@
 # Repositório público Débora Canedo :smiley::blush:
 
- Olá pessoal, permitam-me me apresentar. Me chamo Débora Canedo, sou estudante independente, apaixonada por tecnologia, considerada por familiares e amigos uma pessoa autodidata e, no momento, encantada com a parte de programação Front-End, porém, disposta a aprender sobre novas linguagens e áreas.
+ Olá pessoal, permita me apresentar: me chamo Débora Canedo, sou estudante independente, apaixonada por tecnologia, considerada por familiares e amigos uma pessoa autodidata e, no momento, encantada com a parte de programação Front-End, porém disposta a aprender sobre novas linguagens e áreas.
 
 ---
 
@@ -9,7 +9,7 @@
  Muitos me consideram uma pessoa **Nerd**, creio que isso seja pelo fato de ser fã de __*Naruto*__. Uma inspiração que carrego comigo. 
  
  <p>Sempre quando acontece algo do qual não estava em meus planos me pergunto: O que o Naruto faria em uma situação como essa?</p> 
- Quem também é fã vai entender minha referência, e para quem não entendeu, recomendo que assista ao ânime.
+ Quem também é fã vai entender minha referência, e para quem não entendeu, recomendo que assista ao anime.
  Gosta de ler mangás, assistir séries e filmes sobre diversos gêneros, mas o que mais me prendem são os documentários e fatos verídicos.
 
  ---
