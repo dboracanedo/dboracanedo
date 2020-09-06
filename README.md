@@ -1,4 +1,4 @@
-# Perfil de apresentação Débora Canedo :smiley::blush:
+# Débora Canedo :smiley::blush:
 
  Olá pessoal, permita me apresentar: me chamo Débora Canedo, sou estudante independente, apaixonada por tecnologia, considerada por familiares e amigos uma pessoa autodidata e, no momento, encantada com a parte de programação Front-End, porém disposta a aprender sobre novas linguagens e áreas.
 
