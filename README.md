@@ -1,5 +1,33 @@
 # Débora Canedo :smiley::blush:
 
+ Olá pessoal, permita me apresentar novamente: me chamo Débora Canedo, sou estudante de Analise de Desenvolvimento de Software na Universidade Metodista de São Paulo. Sou apaixonada por programação, me considero e sou reconhecida por familiares e amigos como, uma pessoa autodidata.  Meu primeiro contato com a programação foi através do Front-End, atualmente estudo cursos extracurriculares para melhor aprendizado na área, porém, ao conseguir meu primeiro estágio, meu maior obstaculo e desafio foi com a área do Back-End. Confeso que não tinha muitos conhecimentos na área, mas sempre fui muito mente aberta e não deixei isso me atrapalhar. Além de todo apoio e aprendizado que tenho no estágio, também tomei a iniciativa de procurar cursos extracurriculares para melhorar meu aprendizado. 
+ 
+Hoje estou aqui atualizando minha página inicial do GitHub, para mostrar um pouco da minha história, e também, servir de inspiração para aqueles que estão iniciando. Meu primeiro conselho é:
+
+**NUNCA DESISTA DO QUE VOCÊ QUER SER, NUNCA DESISTA DOS SONHOS QUE VEM DO SEU CORAÇÃO.**
+
+Você vai encontrar sim obstáculos na programação, assim como todos os programadores (a), encontraram no seu inicio de carreira, mas isso não é motivo de desistir, isso é insentivo de correr atrás da solução, conhecer pessoas da área, tirar dúvidas com pessoas mais experientes e aprender cada vez mais.
+
+A minha intenção além de atualizar meu perfil, é mostrar que você é sim capaz de conseguir o que deseja, basta ter paciência, não comparar suas conquistas com a de outras pessoas, e principalmente, ter disciplina. Mesmo não querendo realizar algo, é necessário encarar e fazer, isso vai tornar você um profissional de qualidade, e é isso que é valorizado no mercado atual.
+
+Além das minhas atualizações, também deixarei meu primeiro post, para que você possa ver como iniciei, e até onde pude avançar nesse momento. 
+
+---
+
+ - [x] Aprendendo sobre HTML
+ - [x] Aprendendo sobre CSS
+ - [x] Aprendendo sobre Bootstrap
+ - [x] Aprendendo sobre JavaScript
+ - [x] Aprendendo sobre UX/UI
+ - [x] Aprendendo sobre SQL
+ - [x] Aprendendo sobre #C
+ - [x] Aprendendo sobre Java
+ - [ ] Aprendendo sobre Python
+
+---
+
+
+
  Olá pessoal, permita me apresentar: me chamo Débora Canedo, sou estudante independente, apaixonada por tecnologia, considerada por familiares e amigos uma pessoa autodidata e, no momento, encantada com a parte de programação Front-End, porém disposta a aprender sobre novas linguagens e áreas.
 
 ---
